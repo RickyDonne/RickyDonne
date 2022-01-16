@@ -11,8 +11,8 @@ I'm a **`Data analytics practitioner`** and a **`College Student`**!
 ❤️ **About Me:**
 
 * 👩‍🎓 Learning Data Analysis and building ML models 
-* ✍️ Currently pursuing Bachelor of Technology in Computer Science and Engineering from the [**Budge Budge Institute of Technology**](https://www.bbit.edu.in/)
-* ✨ 2022 Goals: Start Contributing to Open Source Projects
+* ✍️ Currently pursuing Bachelor of Technology in Computer Science and Engineering from [**Budge Budge Institute of Technology**](https://www.bbit.edu.in/)
+* ✨ 2022 Goals: Contributing to Open Source Projects
 * 📈 Interested in **`Predictive Analytics`** and **`Machine Learning`**
 
 
