@@ -4,7 +4,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/RickyDonne)
 
-## Hi there, My name is Debarshi Biswas, I also go by the name -[**Rick**](https://www.linkedin.com/in/rickydonne/) and welcome to my GitHub profile! :octocat:
+## Hi there, My name is Debarshi Biswas, I also go by the name [**Rick**](https://www.linkedin.com/in/rickydonne/). Welcome to my GitHub profile! :octocat:
 
 I'm a **`Data analytics practitioner`** and a **`College Student`**!
 
