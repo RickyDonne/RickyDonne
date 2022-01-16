@@ -1,6 +1,17 @@
 <p  align="center"><img src = "IMG/intro.gif"></p>
+<a href="https://github.com/rickydonne">
+  <img align = "right" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white%22" />
+</a>
+<a href="https://www.linkedin.com/in/rickydonne/">
+  <img align = "right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white%22" />
+</a>
+<a href="https://www.instagram.com/orokin_rick/">
+  <img align = "right" src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white%22" />
+</a>
+<br />
 
 # Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/RickyDonne)
 
